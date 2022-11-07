@@ -1,2 +1,7 @@
 {
-          name:"Heeee"
+	"name": "Heee",
+	"short_name": "Heee",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "any",
+}
