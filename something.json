@@ -68,9 +68,9 @@
   },
   "spec": 2,
   "background": {
-    "blur": 0,
+    "blur": 5,
     "url": "https://pagex3.github.io/PageNotFound40.github.io/coolig.jpeg",
-    "alpha": 0.9,
+    "alpha": 1,
     "color": "#0A0A0A"
   }
 }
